@@ -79,8 +79,20 @@ sayMyName("savio")
 
 Uma callback function é uma função que está sendo passada para outra função como parâmetro.
 
-```js
+> O conceito de callback functions é usado para executar uma tarefa ou rotina após outra tarefa ou rotina ser concluída.
+> Em JavaScript, as callback functions são geralmente usadas para lidar com operações assíncronas, como a leitura de dados de um servidor ou o carregamento de uma imagem.
 
+```js
+function sayMyName(name) {
+  console.log("antes de executar a função callback")
+  name()
+  console.log("depois da função callback")
+}
+
+// Exemplo de callback function, função por parâmetro
+sayMyName(() => {
+  console.log("estou em um callback")
+})
 ```
 
 ## Funções Construtoras
