@@ -16,20 +16,66 @@ console.log("Isso é um texto")
 
 ## Number
 
-- O tipo de dados **Number** consiste em um **valores numéricos**, ou seja, **números**;
+- O tipo de dado **Number** consiste em um **valores numéricos**, ou seja, **números**;
 
 ```js
-/* Exemplos de Numbers:
+/* Exemplos de Numbers:*/
 
-  33 - inteiros;
-  12.5 - reais;
-  NaN - Not a Number;
-  Infinity - Infinito;
-*/
+33 // Inteiros;
+12.5 // Reais;
+NaN // Not a Number;
+Infinity // Infinito;
 ```
 
 ## Boolean
 
+- O tipo de dado **Boolean** só tem dois valores;
+  - True ou False;
+
+```js
+// Valor booleano true;
+console.log(true)
+
+// Valor booleano false;
+console.log(false)
+```
+
+## Undefined x Null
+
+- O tipo de dado **Undefined**, representa valores **indefinidos**:
+  - É considerado como um objeto vazio, ou seja, algo indefinido que não existe;
+- Já o tipo de dado **Null** , é um dado que existe mas não tem valor algum:
+  - Nulo;
+  - Diferente de Indefinido;
+
+```js
+// Valor null;
+console.log(null)
+
+// Valor undefined;
+console.log(undefined)
+```
+
 ## Object
 
+Dados do tipo **Object** são objetos e possuem **atributos** (propriedades) e **métodos** (funcionalidades).
+
+```js
+// Criando um Object copo;
+const copo = {
+  material: "vidro", //Atributo String;
+  capacidade: 250, // Atributo Number;
+  cheio: function () {
+    // aqui podemos declarar uma função/método que será atribuído ao Object;
+  }
+}
+```
+
 ## Array
+
+Um dado do tipo Array representa um agrupamento de dados em forma de lista.
+
+```js
+// Criando um Array shoppingList
+const shoppingList = ["leite", "ovos", "chocolate"]
+```
