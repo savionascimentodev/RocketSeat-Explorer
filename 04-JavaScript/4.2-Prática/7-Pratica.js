@@ -16,6 +16,21 @@
   Substitua o "x" da mensagem, pelo número de tentativas
 */
 
-prompt('Advinhe o número que estou pensando? Está entre 0 e 10')
+const result = prompt('Advinhe o número que estou pensando? Está entre 0 e 10')
 
-numberAleatory = Math()
+// Lógica para gerar um número aleatório menor que 10;
+const randomNumber = Math.round(Math.random() * 10)
+
+let xAttempts = 1
+
+while (Number(result != randomNumber)) {
+  prompt("Erro, tente novamente");
+  xAttempts++
+}
+
+// Maneira simples de fazer interpolação;
+// alert('Parabéns você adivinhou o número em' + xAttempts + ' tentativas')
+
+// Interpolação de Strings com Template Literals ou Template Strins;
+alert(`Parabéns você adivinhou o número em' ${xAttempts} tentativas`)
+
