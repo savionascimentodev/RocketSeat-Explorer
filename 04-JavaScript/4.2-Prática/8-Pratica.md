@@ -9,11 +9,10 @@ Perguntas a serem feitas:
 - 5. Quais **tratamentos de dados** preciso fazer? (estrutura de dados, funções)
 - 6. Qual é a saída, ou quais os dados de saída, esperada? (**outputs**)
 
-## Ferramentas da linguagem que abordarems:
+## Ferramentas da linguagem que abordaremos:
 
 - Estruturas de repetição;
-  - Laço de repetição: while() ✅;
-- Gerar número aleatório utilizando **Math()** ✅;
-
-- Valor incremental **(++)**: o valor +1 ✅;
-- Tipo de dado: Undefined ✅;
+  - Laço de repetição: **while()** ✅;
+- Arrays e funções de Arays ✅;
+- Condicional Switch e if/else ✅;
+- Templete Literals (strings) ✅;

@@ -33,24 +33,26 @@ while (option != 3) {
     3. Sair do programa
   `))
 
-
-  if (option == 1) {
-    let item = prompt("Digite o nome do item")
-    items.push(item)
+  switch (option) {
+    case 1:
+      // Sequencia de código;
+      let item = prompt("Digite o nome do item")
+      items.push(item)
+      break;
+    case 2:
+      // Sequeência de código;
+      if (items.length == 0) {
+        alert("Não existem itens cadastrados")
+      } else {
+        alert(items)
+      }
+      break;
+    case 3:
+      alert("Tchau")
+      break;
+    default:
+      // Caminho quando não é nenhum dos casos;
+      alert("Opção inválida. Tente novamente")
   }
-
-  else if (option == 2) {
-
-    if (items.length == 0) {
-      alert("Não existem itens cadastrados")
-    } else {
-      alert(items)
-    }
-
-  } else {
-    alert("Tchau")
-  }
-
   console.log(option, items)
-
 }
