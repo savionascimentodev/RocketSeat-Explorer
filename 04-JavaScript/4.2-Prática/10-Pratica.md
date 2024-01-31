@@ -1,7 +1,6 @@
 # Melhorando a Lógica de Programação com o JavaScript
 
-## Estruturando dados com Objetos
+## Ferramentas da linguagem que abordaremos:
 
 - Estruturas de dados: **Objetos** ✅;
-  - Object Literal✅;
 - For...of ✅;

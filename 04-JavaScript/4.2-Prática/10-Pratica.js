@@ -32,18 +32,19 @@ const patients = [
   },
 ]
 
-let patientsNames = []
 
-// For mais moderno for..of
-for (let patient of patients) {
-  patientsNames.push(patient.name)
+function IMC(weight, height) {
+  return (weight / ((height / 100) ** 2)).toFixed(2)
 }
 
-alert(patientsNames)
+function printPatientIMC(patient) {
+  return `
+    Paciente ${patient.name} possui o IMC de
+    ${IMC(patient.weight, patient.height)}
+  `
+}
 
-
-// For antigo
-
-// for (let index = 0; index < patients.length; index++) {
-//   patientsNames[index] = patients[index].name
-// }
+for (let patient of patients) {
+  let IMCmessage = printPatientIMC(patient)
+  alert(IMCmessage)
+}
