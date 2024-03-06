@@ -19,4 +19,4 @@ Lógica de programação é uma maneira de pensar seguindo uma sequência lógic
 
 - Seguindo uma sequência lógica contendo dados e manipulando o programa, sistema, site.
 
-![Web](../assets/logica.png)
+![Web](./assets/logica.png)

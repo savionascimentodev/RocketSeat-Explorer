@@ -62,7 +62,7 @@ Em resumo, o protocolo TCP/IP é um conjunto de regras e procedimentos que permi
   Cliente faz o pedido e Servidor escuta e responde ao pedido
   Cliente é o front-end, servidor é o back-end
 
-![Web](../assets/fundamentos-web.png)
+![Web](./assets/fundamentos-web.png)
 
 # Front-end e Back-end
 
