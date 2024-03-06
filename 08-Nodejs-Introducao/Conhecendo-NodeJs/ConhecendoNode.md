@@ -29,7 +29,7 @@ O v8 foi desenvolvido em C++ com o objetivo de aumentar a performace de execuç�
 
 ## Funcionamento do Node.js
 
-![alt text](image.png)
+![EventLoop](./EventLoop.png)
 
 > O loop é um ciclo contínuo que verifica se há eventos pendentes e os executa. Essa arquitetura permite que o Node.js seja altamente eficiente e escalável, mesmo lidando com um grande número de conexões simultâneas.
 
