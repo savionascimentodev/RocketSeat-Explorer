@@ -4,7 +4,7 @@
 
 API - **Aplication Programming Interface**, ou Interface de Programação de Aplicação é um termo para designar uma interface de comunicação que um sistema ofere para que outros acessem suas funções.
 
-![Api Analogy](./ApiAnalogy.png)
+![Api Analogy](./assets/ApiAnalogy.png)
 
 ## O que é o Node.Js
 
@@ -16,11 +16,11 @@ API - **Aplication Programming Interface**, ou Interface de Programação de Apl
 
 - Serve para fazer o que você quiser desde sites à scripts de automação incluindo, a criação de APIS.
 
-![Node Use](./NodeUse.png)
+![Node Use](./assets/NodeUse.png)
 
 ## Vantagens
 
-![Node Advantage](./NodeAdvantage.png)
+![Node Advantage](./assets/NodeAdvantage.png)
 
 ## V8 Engine
 
@@ -29,7 +29,7 @@ O v8 foi desenvolvido em C++ com o objetivo de aumentar a performace de execuç�
 
 ## Funcionamento do Node.js
 
-![EventLoop](./EventLoop.png)
+![EventLoop](./assets/EventLoop.png)
 
 > O loop é um ciclo contínuo que verifica se há eventos pendentes e os executa. Essa arquitetura permite que o Node.js seja altamente eficiente e escalável, mesmo lidando com um grande número de conexões simultâneas.
 

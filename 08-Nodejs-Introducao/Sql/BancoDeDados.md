@@ -3,7 +3,7 @@
 **Um banco de dados é uma coleção organizada de informações estruturadas, normalmente armazenadas eletronicamente em um sistema de computador.**
 É um repositório onde dados relacionados são armazenados. Esses dados podem ser informações comerciais, registros de clientes, transações financeiras, registros médicos e muito mais.
 
-![Structure](./structure.png)
+![Example](./example.png)
 
 ### Componentes da Estrutura:
 
@@ -20,4 +20,4 @@ Exemplo:
 
 ### Exemplo de uma tabela com campos:
 
-![Example](./example.png)
+![Structure](./structure.png)

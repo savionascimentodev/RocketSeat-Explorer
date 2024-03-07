@@ -1,6 +1,20 @@
-# Projeto Rocketseat Notes
+# Projeto Api
 
 ![alt text](image.png)
+
+## Detalhes
+
+Esse projeto foi feito para entendimento dos conceitos sobre Back-end como:
+
+- Node e Express
+- Banco de dados e SQL;
+- Rotas e Controllers;
+- Migrations;
+- Midllewares
+
+O projeto é uma Api básica que cadastra e atualiza os dados de um usuário como: nome, e-mail e senha.
+
+Aprendi conceitos sobre o Node e Express, também como Rotas, Métodos Http, Http Codes, Midllewares, a diferença entre Query Params e Route Params, fiz a conexão com um banco de Dados SQLite, criei uma Migration para automatizar a criação do bd.
 
 #### Colinha com alguns conceitos:
 
