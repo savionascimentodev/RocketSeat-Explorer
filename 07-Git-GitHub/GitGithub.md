@@ -5,7 +5,7 @@ O Git foi inicialmente um projeto projetado para o desenvolvimento do Kernel Lin
 
 ### Como funciona o Git
 
-![alt text](image.png)
+![Git 01](./git01.png)
 
 A linha horizontal representa a **linha do tempo** do projeto e ccada círculo verde representa um **commit**, que é uma captura instantânea do estado do seu projeto em um determinado momento.
 
