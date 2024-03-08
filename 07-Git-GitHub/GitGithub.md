@@ -15,6 +15,36 @@ A linha horizontal representa a **linha do tempo** do projeto e ccada círculo v
 - Uma mensagem que descreve as alterações feitas;
 - O nome e o email do autor do commit;
 
+### Configurações gerais
+
+```git
+git config --global user.name "nome"
+Configura o nome do usuário para o Git em um nível global.
+```
+
+####
+
+#### Subindo um repositório para o GitHub
+
+```git
+git init
+
+# Adiciona todos os arquivos modificados ao staging area
+git add .
+
+# Cria um commit com as alterações
+git commit -m "Meu primeiro commit"
+
+# Cria e muda para a branch main
+git branch -M main
+
+# Adiciona o repositório remoto do GitHub
+git remote add origin [URL_DO_SEU_REPOSITÓRIO]
+
+# Envia as alterações para o repositório remoto
+git push-u origin main
+```
+
 ---
 
 # Github
