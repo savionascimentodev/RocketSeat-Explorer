@@ -1,15 +1,15 @@
 <h1 align="center">
-   Rocketseat Explorer | <img alt="badge vscode" src="./badge-rocket.svg">
+   Rocketseat Explorer <img alt="badge vscode" src="./assets/badge-rocket.svg">
 </h1>
 
 <h3 align="center">
 
-![License-Mit](https://img.shields.io/badge/license-MIT-lightseagreen) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=SQLite&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=Heroku&logoColor=white)
 
 </h3>
 
 <p align="center">
-  <a href="#-Sobre">Sobre</a> |
+  <a href="#Sobre">Sobre</a> |
   <a href="#projects">Projetos</a> |
   <a href="#-Desafios">Desafios</a> |
   <a href="#author">Autor</a>
@@ -17,13 +17,13 @@
 
 ---
 
-[🏠 Home](https://github.com/savionascimentodev)
+<!-- [🏠 Home](https://github.com/savionascimentodev) -->
 
 ## 📚 Sobre
 
-<p class="#-Sobre">
-Criado pela <a href="https://rocketseat.com.br/" target="_blank">Rocketseat</a>, O Discover é um programa gratuito de formação de devs, feito para você aprender do zero programação com foco em desenvolvimento web.
-Esse repositório foi feito para estudos/treinamentos das aulas dessa plataforma.
+<a class="#Sobre"/>
+
+![Header](./assets/header.png)
 
 ---
 
