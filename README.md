@@ -65,10 +65,14 @@ Veja mais sobre os desafios/projetos feitos [aqui](https://github.com/savionasci
 
 ### 👤 Autor <a id="author"></a>
 
-**Sávio Nascimento**
+<img align="left" src="https://www.github.com/savionascimentodev.png?size=150" style="border-radius: 20px;margin-right:15px">
 
-- [![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/)
-- [![Github Badge](https://img.shields.io/badge/savionascimentodev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)
+### [Savio Nascimento](https://github.com/renyzeraa)
+
+🛠 `Full Stack Developer Jr`
+📍 Nova Mutum - Brazil
+
+[![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/) [![Github Badge](https://img.shields.io/badge/savionascimentodev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)
 
 ---
 
