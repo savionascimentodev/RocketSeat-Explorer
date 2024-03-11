@@ -4,7 +4,8 @@
 
 <h3 align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=SQLite&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=Heroku&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Figma](https://img.shields.io/badge/-Figma-060606?style=flat&logo=Figma) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933.svg?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg?style=flat&logo=SQLite&logoColor=white) ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=Heroku&logoColor=white)
 
 </h3>
 
@@ -27,21 +28,40 @@
 
 ---
 
-<!-- ## 👾 Projetos <a id="projects"></a>
+## 👾 Projetos
 
-### ❌⭕ Tic Tac Toe
+<a class="projects"></a>
 
-Projeto feito com **Vue.js**(composition api) e **TailwindCss**, que consiste em um jogo da velha de dois jogadores, veja o projeto aqui: [Projeto](https://projetos-vue-js.vercel.app/), para saber mais sobre o projeto veja o [Readme](https://github.com/savionascimentodev/Projetos-VueJs/tree/main/tic-tac-toe) dele.
+### Stage 02 - Móveis Customizados
 
-<img src="https://raw.githubusercontent.com/savionascimentodev/Projetos-VueJs/main/assets/tic-tac-toe-desktop.png" width="300">
+![alt text](assets/stage02.png)
 
-### 💰💰 Api Coin
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-Projeto feito com **Vue.js** e **SpectreCss**, que consiste em uma listagem de uma API de cotação de moerdas, veja o projeto aqui: [Projeto](https://projetos-vue-js-api-coin.vercel.app/), para saber mais sobre o projeto veja o [Readme](https://github.com/savionascimentodev/Projetos-VueJs/tree/main/api-coin) dele.
+[Projeto feito](https://github.com/savionascimentodev/RocketSeat-Explorer/tree/main/06-JavaScript-Antes-Do-Framework/Projeto-Github-Favorites) em Html e Css puro, feito com base em um design do [Figma](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01/duplicate), aprendi sobre conceitos básicos de css como espaçamentos bordas e também como utilizar o Figma.
 
-<img src="https://raw.githubusercontent.com/savionascimentodev/Projetos-VueJs/main/assets/api-coin-desktop.png" width="550">
+### Stage 4.1 - Intensivão
 
---- -->
+![Intensivao](/assets/intensivao.png)
+
+O Intensivão é um projeto de aceleração que foi criado para ajudar pessoas que precisam acelerar a jornada e querem rever os níveis iniciais de uma forma mais rápida, sem deixar de testar e aplicar o seu conhecimento.
+
+**Tem dois Desafios nesse tópico**
+
+- Layout
+- JavaScript
+
+Veja mais sobre os desafios/projetos feitos [aqui](https://github.com/savionascimentodev/RocketSeat-Explorer/tree/main/04.1-Intensivao-Projeto). **PS**: Veja os Readmes dos desafios.
+
+### Stage 06 - GitHub Favorites
+
+![Stage 06](./assets/stage06.png)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+[Projeto feito](https://github.com/savionascimentodev/RocketSeat-Explorer/tree/main/06-JavaScript-Antes-Do-Framework/Projeto-Github-Favorites) em Js puro utilizando **classes**, programação **funcional**, **dom**, utilizando a **API** de usuários do Github para trazer os dados em uma listagem, utilizando o **fetch** e **async/await** para as **promises**, salvando os dados com o **local storage**, não permite favoritar usuários já listados e também pode remover um usuário.
+
+---
 
 ### 👤 Autor <a id="author"></a>
 

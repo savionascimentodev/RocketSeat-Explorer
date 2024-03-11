@@ -1,5 +1,7 @@
 # Desafio - Iniciando com JavaScript
 
+[🏠 Home](https://github.com/savionascimentodev/RocketSeat-Explorer)
+
 ## 📝 Sobre o desafio
 
 Chegou o momento de colocar a mão na massa e se desafiar com código!
