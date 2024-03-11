@@ -74,6 +74,8 @@ Veja mais sobre os desafios/projetos feitos [aqui](https://github.com/savionasci
 
 [![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/) [![Github Badge](https://img.shields.io/badge/savionascimentodev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)
 
+<br/>
+
 ---
 
 ![last-commit](https://img.shields.io/github/last-commit/savionascimentodev/Rocketseat-Explorer?&color=purple) <img src="https://img.shields.io/github/languages/count/savionascimentodev/Rocketseat-Explorer?color=purple&style=flat" alt="Linguagens"> [![GitHub Repo stars](https://img.shields.io/github/stars/savionascimentodev/Rocketseat-Explorer?style=social)](https://github.com/savionascimentodev/Rocketseat-Explorer/stargazers)
