@@ -24,7 +24,7 @@
 
 <a class="#Sobre"/>
 
-![Header](./assets/header.png)
+<img src="assets/header.png" alt="Header" style="border-radius: 20px"/>
 
 ---
 
@@ -34,7 +34,7 @@
 
 ### Stage 02 - Móveis Customizados
 
-![alt text](assets/stage02.png)
+<img src="assets/stage02.png" alt="Stage02" style="border-radius: 20px"/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
@@ -42,20 +42,20 @@
 
 ### Stage 4.1 - Intensivão
 
-![Intensivao](/assets/intensivao.png)
+<img src="./assets/intensivao.png" alt="Intensivão" style="border-radius: 20px"/>
 
 O Intensivão é um projeto de aceleração que foi criado para ajudar pessoas que precisam acelerar a jornada e querem rever os níveis iniciais de uma forma mais rápida, sem deixar de testar e aplicar o seu conhecimento.
 
-**Tem dois Desafios nesse tópico**
+**Existe dois Desafios nesse stage:**
 
-- Layout
-- JavaScript
+- Layout;
+- JavaScript;
 
 Veja mais sobre os desafios/projetos feitos [aqui](https://github.com/savionascimentodev/RocketSeat-Explorer/tree/main/04.1-Intensivao-Projeto). **PS**: Veja os Readmes dos desafios.
 
 ### Stage 06 - GitHub Favorites
 
-![Stage 06](./assets/stage06.png)
+<img src="./assets/stage06.png" alt="Stage06" style="border-radius: 20px" />
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
