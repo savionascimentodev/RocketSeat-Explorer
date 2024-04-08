@@ -24,7 +24,7 @@
 
 <a class="#Sobre"/>
 
-<img src="assets/header.png" alt="Header" style="border-radius: 20px"/>
+<img src="assets/header.png" alt="Header"/>
 
 ---
 
@@ -32,21 +32,21 @@
 
 <a class="projects"></a>
 
-### Stage 02 - Móveis Customizados
+### Stage 02 - Móveis Customizados I
 
-<img src="assets/stage02.png" alt="Stage02" style="border-radius: 20px"/>
+<img src="assets/stage02.png" alt="Stage02"/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-[Projeto feito](https://github.com/savionascimentodev/RocketSeat-Explorer/tree/main/06-JavaScript-Antes-Do-Framework/Projeto-Github-Favorites) em Html e Css puro, feito com base em um design do [Figma](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01/duplicate), aprendi sobre conceitos básicos de css como espaçamentos bordas e também como utilizar o Figma.
+[Projeto feito](https://github.com/savionascimentodev/RocketSeat-Explorer/tree/main/06-JavaScript-Antes-Do-Framework/Projeto-Github-Favorites) em Html e Css puro, feito com base em um design do [Figma](https://www.figma.com/file/fAvYZz4dPV5MfhL77XkqkD/Explorer---Projeto-01/duplicate), aprendido sobre conceitos básicos de css como espaçamentos bordas e também como utilizar o Figma.
 
 ### Stage 4.1 - Intensivão
 
-<img src="./assets/intensivao.png" alt="Intensivão" style="border-radius: 20px"/>
+<img src="./assets/intensivao.png" alt="Intensivão"/>
 
 O Intensivão é um projeto de aceleração que foi criado para ajudar pessoas que precisam acelerar a jornada e querem rever os níveis iniciais de uma forma mais rápida, sem deixar de testar e aplicar o seu conhecimento.
 
-**Existe dois Desafios nesse stage:**
+**Existem dois Desafios nesse stage:**
 
 - Layout;
 - JavaScript;
@@ -55,7 +55,7 @@ Veja mais sobre os desafios/projetos feitos [aqui](https://github.com/savionasci
 
 ### Stage 06 - GitHub Favorites
 
-<img src="./assets/stage06.png" alt="Stage06" style="border-radius: 20px" />
+<img src="./assets/stage06.png" alt="Stage06" />
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
@@ -67,10 +67,11 @@ Veja mais sobre os desafios/projetos feitos [aqui](https://github.com/savionasci
 
 <img align="left" src="https://www.github.com/savionascimentodev.png?size=150" style="border-radius: 20px;margin-right:15px">
 
-### [Savio Nascimento](https://github.com/renyzeraa)
+### [Savio Nascimento](https://github.com/savionascimentodev)
 
-🛠 `Full Stack Developer Jr`
-📍 Nova Mutum - Brazil
+###### 🛠 `Full Stack Developer Jr`
+
+###### 📍 Nova Mutum - Brazil
 
 [![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/) [![Github Badge](https://img.shields.io/badge/savionascimentodev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)
 
