@@ -12,7 +12,7 @@
 <p align="center">
   <a href="#Sobre">Sobre</a> |
   <a href="#projects">Projetos</a> |
-  <a href="#-Desafios">Desafios</a> |
+  <a href="#Desafios">Desafios</a> |
   <a href="#author">Autor</a>
 </p>
 
@@ -34,7 +34,7 @@
 
 ### Stage 02 - Móveis Customizados I
 
-<img src="assets/stage02.png" alt="Stage02"/>
+<img src="assets/stage02.png" alt="Stage-02"/>
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
@@ -55,7 +55,7 @@ Veja mais sobre os desafios/projetos feitos [aqui](https://github.com/savionasci
 
 ### Stage 06 - GitHub Favorites
 
-<img src="./assets/stage06.png" alt="Stage06" />
+<img src="./assets/stage06.png" alt="Stage-06" />
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
@@ -65,15 +65,14 @@ Veja mais sobre os desafios/projetos feitos [aqui](https://github.com/savionasci
 
 ### 👤 Autor <a id="author"></a>
 
-<img align="left" src="https://www.github.com/savionascimentodev.png?size=150" style="border-radius: 20px;margin-right:15px">
+<img align="left" src="https://www.github.com/savionascimentodev.png?size=150">
 
 ### [Savio Nascimento](https://github.com/savionascimentodev)
 
-###### 🛠 `Full Stack Developer Jr`
+`🛠 Full Stack Developer`
+`📍Nova Mutum - Brazil`
 
-###### 📍 Nova Mutum - Brazil
-
-[![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/) [![Github Badge](https://img.shields.io/badge/savionascimentodev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev)
+[![Linkedin Badge](https://img.shields.io/badge/-SavioNascimento-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/savio-nascimento)](https://www.linkedin.com/in/savio-nascimento/) [![Github Badge](https://img.shields.io/badge/savionascimentodev-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/savionascimentodev)](https://github.com/savionascimentodev) [![Instagram Badge](https://img.shields.io/badge/-@SavioNascimento-f94877?style=flat&logo=instagram&logoColor=white&link=https://https://www.instagram.com/savio_nascimento_/)](https://www.instagram.com/savio_nascimento_/)
 
 <br/>
 
