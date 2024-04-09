@@ -82,4 +82,4 @@ Veja mais sobre os desafios/projetos feitos [aqui](https://github.com/savionasci
 
 </br>
 
-[⬆️ Topo](#top) <br>
+[⬆️ Topo](#top)
