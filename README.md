@@ -65,7 +65,7 @@ Veja mais sobre os desafios/projetos feitos [aqui](https://github.com/savionasci
 
 ### 👤 Autor <a id="author"></a>
 
-<img align="left" src="https://www.github.com/savionascimentodev.png?size=150">
+[![Savio-Nascimento.png](https://i.postimg.cc/gjRJWDWh/Savio-Nascimento.png)](https://postimg.cc/CnhYCbdM)
 
 ### [Savio Nascimento](https://github.com/savionascimentodev)
 
